@@ -6,3 +6,5 @@
  * Time: 下午11:12
  */
 echo 'hello world';
+
+phpinfo();
